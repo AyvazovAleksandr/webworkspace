@@ -1,0 +1,10 @@
+elasticsearch/data/*
+mysql/8/data/*
+mysql/8/conf.d/*
+mysql/8/logs/*
+mysql/8/dump/*
+mysql/5.7/data/*
+mysql/5.7/conf.d/*
+mysql/5.7/logs/*
+mysql/5.7/dump/*
+nginx/logs/*
