@@ -8,3 +8,4 @@ mysql/5.7/conf.d/*
 mysql/5.7/logs/*
 mysql/5.7/dump/*
 nginx/logs/*
+.idea/
