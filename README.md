@@ -128,3 +128,10 @@ docker-compose up -d
   *  wget 
   *  nodejs 
   *  npm  
+
+---
+## Версии Xdebug
+[https://xdebug.org/docs/compat](https://xdebug.org/docs/compat)
+
+![Xdebug Version](docs/xdebug_version.png)
+
